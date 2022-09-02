@@ -1,7 +1,7 @@
 ### Olá! Meu nome é daniel e, seja bem-vindo ao meu perfil🖐
 
  
-●  Estudante técnico de redes de computadores
+●  Estudante técnico de redes de computadores.
 
 ## Minhas Redes sociais
 
