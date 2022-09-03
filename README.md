@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-de-oliveira-souza-a39b5b220/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/index.daniel/)
 
-![Danielsons GitHub stats](https://github-readme-stats.vercel.app/api?username=odanielsons&theme=midnight-purple&show_icons=true)
+![Danielsons GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-Oliveira-S&theme=midnight-purple&show_icons=true)
 
 ### Minhas principais skills são
 
@@ -22,4 +22,4 @@
 ![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=odanielsons&repo=github-readme-stats)](https://github.com/odanielsons/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daniel-Oliveira-S&repo=github-readme-stats)](https://github.com/odanielsons/github-readme-stats)
