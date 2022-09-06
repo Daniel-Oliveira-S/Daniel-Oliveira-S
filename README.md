@@ -1,7 +1,8 @@
 ### Olá! Meu nome é daniel e, seja bem-vindo ao meu perfil🖐
 ### Hi! my name is Daniel, and welcome to my profile
  
-●  Estudante técnico de redes de computadores.
+### ●  Estudante de redes de computadores.
+### ●  Computer Network Studant 
 
 ## Minhas Redes sociais
 ## My social medias
@@ -23,4 +24,10 @@
 ![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+### NEXT STEPS
+
+- [ ] ***Be certified by AWS***
+- [ ] ***Join on USP***
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daniel-Oliveira-S&repo=github-readme-stats)](https://github.com/odanielsons/github-readme-stats)
+
