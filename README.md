@@ -2,7 +2,7 @@
 ### Hi! my name is Daniel, and welcome to my profile
  
 ### ●  Estudante de redes de computadores.
-### ●  Computer Network Studant 
+### ●  Computer Network Student 
 
 ## Minhas Redes sociais
 ## My social medias
