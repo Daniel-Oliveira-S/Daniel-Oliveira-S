@@ -26,7 +26,7 @@
 
 ### NEXT STEPS
 
-- [x ] ***Be certified by AWS***
+- [x] ***Be certified by AWS***
 - [ ] ***Join on USP***
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daniel-Oliveira-S&repo=github-readme-stats)](https://github.com/odanielsons/github-readme-stats)
