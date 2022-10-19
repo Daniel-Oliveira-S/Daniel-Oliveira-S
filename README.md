@@ -29,5 +29,4 @@
 - [x] ***Be certified by AWS***
 - [ ] ***Join on USP***
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daniel-Oliveira-S&repo=github-readme-stats)](https://github.com/odanielsons/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Oliveira-S&layout=compact)](https://github.com/Daniel-Oliveira-S/github-readme-stats)
