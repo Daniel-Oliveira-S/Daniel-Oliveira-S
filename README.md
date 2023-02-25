@@ -6,8 +6,11 @@
 ![Daniel-Oliveira-S GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-Oliveira-S&theme=tokyonight&show_icons=true)
 </div>
 
-### Minhas principais skills 
-### My main skills 
+<a href="#-tecnologias">
+  <h3>
+  Tecnologias
+  </h3>
+</a
 
 ---
 
