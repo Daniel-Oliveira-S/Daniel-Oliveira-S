@@ -10,16 +10,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Daniel-Oliveira-S&color=yellow" alt="Profile views" /> </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-de-oliveira-souza-a39b5b220/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danielsons.js/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danielsons.jsx/)
 
-<a href="#-tecnologias">
   <h3>
   Tecnologias
   </h3>
-</a
-
----
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
