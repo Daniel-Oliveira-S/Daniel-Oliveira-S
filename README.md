@@ -1,13 +1,15 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-de-oliveira-souza-a39b5b220/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/index.daniel/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Oliveira-S&layout=compact)](https://github.com/Daniel-Oliveira-S/github-readme-stats)
 ![Daniel-Oliveira-S GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-Oliveira-S&theme=tokyonight&show_icons=true)
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Daniel-Oliveira-S&color=yellow" alt="Profile views" /> </p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-de-oliveira-souza-a39b5b220/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/index.daniel/)
 
 <a href="#-tecnologias">
   <h3>
@@ -28,6 +30,6 @@
 - [x] Iniciar faculdade
 - [x] Criar Portifólios
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Oliveira-S&layout=compact)](https://github.com/Daniel-Oliveira-S/github-readme-stats)
+
 
 ![Snake Animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
