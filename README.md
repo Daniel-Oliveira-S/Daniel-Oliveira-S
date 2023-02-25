@@ -5,8 +5,13 @@
 
 ![Daniel-Oliveira-S GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-Oliveira-S&theme=tokyonight&show_icons=true)
 </div>
+
 ### Minhas principais skills 
 ### My main skills 
+
+---
+
+<div>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=blackhttps://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -20,6 +25,8 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
+</div>
+  
 ### NEXT STEPS
 - [x] Iniciar faculdade
 - [x] Criar Portifólios
