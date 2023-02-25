@@ -1,5 +1,5 @@
 
-<div align="right">
+<div align="left">
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Oliveira-S&layout=compact)](https://github.com/Daniel-Oliveira-S/github-readme-stats)
