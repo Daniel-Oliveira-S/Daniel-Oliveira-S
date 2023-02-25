@@ -1,8 +1,8 @@
 ### Olá! Meu nome é daniel e, seja bem-vindo ao meu perfil🖐
 ### Hi! my name is Daniel, and welcome to my profile
  
-### ●  Estudante de redes de computadores.
-### ●  Computer Network Student 
+#### Formado em redes de computadores
+#### Software Engineer
 
 ## Minhas Redes sociais
 ## My social medias
