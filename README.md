@@ -31,3 +31,5 @@
 - [x] Criar Portifólios
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Oliveira-S&layout=compact)](https://github.com/Daniel-Oliveira-S/github-readme-stats)
+
+![Snake Animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
