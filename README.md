@@ -27,8 +27,6 @@
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### NEXT STEPS
-
-- [x] ***Be certified by AWS***
-- [ ] ***Join on USP***
+- [x] Iniciar faculdade
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Oliveira-S&layout=compact)](https://github.com/Daniel-Oliveira-S/github-readme-stats)
