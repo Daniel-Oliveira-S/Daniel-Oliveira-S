@@ -6,7 +6,7 @@
 ![Daniel-Oliveira-S GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-Oliveira-S&theme=tokyonight&show_icons=true)
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Daniel-Oliveira-S&color=purple" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Daniel-Oliveira-S&color=yellow" alt="Profile views" /> </p>
 
 <a href="#-tecnologias">
   <h3>
