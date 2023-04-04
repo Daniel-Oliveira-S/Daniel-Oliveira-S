@@ -3,7 +3,7 @@
 
 
 
-!![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-Oliveira-S&theme=dark&show_icons=true)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-Oliveira-S&theme=dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Oliveira-S&layout=compact)](https://github.com/Daniel-Oliveira-S/github-readme-stats)
 </div>
 
