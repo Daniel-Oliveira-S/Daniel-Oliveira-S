@@ -5,7 +5,7 @@
 
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-Oliveira-S&theme=buefy)](https://github.com/Daniel-Oliveira-S/github-readme-stats)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Oliveira-S)](https://github.com/Daniel-Oliveira-S/github-readme-stats)  </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Oliveira-S&theme=nightowl)](https://github.com/Daniel-Oliveira-S/github-readme-stats)  </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Daniel-Oliveira-S&color=yellow" alt="Profile views" /> </p>
 
