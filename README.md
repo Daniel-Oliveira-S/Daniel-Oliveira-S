@@ -16,10 +16,9 @@ Olá, meu nome é Daniel. Tenho 19 anos, sou estudante de engenharia de software
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Daniel-Oliveira-S&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Oliveira-S&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Memes
-<img src="https://rm.up.railway.app/" width="512px"/>
+## Meme
+<img src="https://i.imgflip.com/7j1xgu.jpg" width="340px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Daniel-Oliveira-S&icon=3&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
