@@ -15,11 +15,7 @@ Olá, meu nome é Daniel. Tenho 19 anos, sou estudante de engenharia de software
 <div align="center">
  <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Daniel-Oliveira-S&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&card_width=280"/>
  <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Daniel-Oliveira-S&layout=compact&langs_count=16&theme=tokyonight&hide_border=true&card_width=280"/><br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Oliveira-S&langs_count=8)](https://github.com/Daniel-Oliveira-S/github-readme-stats)
 </div>
 
 ## Meme
