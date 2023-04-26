@@ -17,7 +17,9 @@ Olá, meu nome é Daniel. Tenho 19 anos, sou estudante de engenharia de software
  <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Daniel-Oliveira-S&layout=compact&langs_count=16&theme=tokyonight&hide_border=true&card_width=280"/><br>
 </div>
 
+<div align ="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Oliveira-S&size_weight=0.5&count_weight=0.5)](https://github.com/Daniel-Oliveira-S/github-readme-stats)
+ </div>
 
 
 ## Meme
