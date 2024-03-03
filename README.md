@@ -23,10 +23,3 @@ Olá, meu nome é Daniel. Tenho 19 anos, sou estudante de engenharia de software
  
 
 
-
-## Meme
-<img src="https://i.imgflip.com/7j1xgu.jpg" width="340px"/>
-
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
